@@ -1,4 +1,4 @@
 # MSCI-541-Search-Engines
 All assignments from MSCI 541 Search Engines
 
-Built a search engine in Python
+Built a search engine in Python using BM25
