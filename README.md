@@ -1,2 +1,4 @@
 # MSCI-541-Search-Engines
-All assignments from msci 541
+All assignments from MSCI 541 Search Engines
+
+Built a search engine in Python
